@@ -16,7 +16,7 @@ pipeline{
            
            steps{
                
-               git 'https://github.com/sparsh27/maven.git'
+               git 'https://github.com/sparsh27/Shared-new.git'
                 }
           }
           
