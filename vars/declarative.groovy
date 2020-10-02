@@ -1,5 +1,5 @@
 def call(){
-node{
+pipeline{
     
     agent any
     environment{
